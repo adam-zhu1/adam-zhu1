@@ -1,16 +1,26 @@
-## Hi there 👋
+# 👋 Hi, I’m Adam Zhu  
 
-<!--
-**adam-zhu1/adam-zhu1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Undergraduate at **Carnegie Mellon University (CMU '29)** majoring in **Statistics and Machine Learning**  
+📊 Passionate about applying data-driven thinking to real-world challenges — from **forensic science** to **robotics**.  
+💡 Interested in how analytics can make technology smarter, safer, and more human.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔬 Current Work
+- **Research Assistant**, Virtual Reality Applications Center (VRAC) — analyzed evacuation communication strategies through regression models.  
+- **Research Intern**, Center for Statistics and Applications in Forensic Evidence (CSAFE) — developed methods for forensic handwriting and camera fingerprint analysis.  
+- **Co-Captain**, FIRST Robotics Team Neutrino #3928 — led outreach, mentorship, and team operations.  
+
+---
+
+### 🌟 Interests
+- Data Science & Machine Learning  
+- Robotics & Human-Technology Interaction  
+- Piano 🎹 | Photography 📸 | Traveling 🌍  
+
+---
+
+### 🔗 Connect
+📫 [adamzhu@andrew.cmu.edu](mailto:adamzhu@andrew.cmu.edu)  
+💼 [LinkedIn](https://www.linkedin.com/in/adam-zhu-cmu)  
+🌐 [Portfolio](https://adamzhu.com) *(coming soon!)*
