@@ -1,4 +1,4 @@
-# Hi, I’m Adam Zhu  
+# 👋 Hi, I’m Adam Zhu  
 
 Undergraduate at **Carnegie Mellon University (CMU '29)** majoring in **Statistics and Machine Learning**  
 Passionate about applying data-driven thinking to real-world challenges — from **forensic science** to **robotics**.  
@@ -21,6 +21,6 @@ Interested in how analytics can make technology smarter, safer, and more human.
 ---
 
 ### Connect
-📫 [adamzhu@andrew.cmu.edu](mailto:adamzhu@andrew.cmu.edu)  
-💼 [LinkedIn](https://www.linkedin.com/in/adam-zhu-cmu)  
-🌐 [Portfolio](https://adamzhu.com) *(coming soon!)*
+[adamzhu@andrew.cmu.edu](mailto:adamzhu@andrew.cmu.edu)  
+[LinkedIn](https://www.linkedin.com/in/adam-zhu-cmu)  
+[Portfolio](https://adamzhu.com) *(coming soon!)*
