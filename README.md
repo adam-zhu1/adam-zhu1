@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Adam Zhu  
+# Hello, My Name is Adam Zhu  
 
 Undergraduate at **Carnegie Mellon University (CMU '29)** majoring in **Statistics and Machine Learning**  
 Passionate about applying data-driven thinking to real-world challenges — from **forensic science** to **robotics**.  
