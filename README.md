@@ -45,4 +45,4 @@ Interested in how analytics can make technology smarter, safer, and more human.
 ### Connect
 [adamzhu@andrew.cmu.edu](mailto:adamzhu@andrew.cmu.edu)  
 [LinkedIn](https://www.linkedin.com/in/adam-zhu-cmu)  
-[Portfolio](https://adam-zhu1.github.io/) *(coming soon!)*
+[Portfolio](https://adam-zhu1.github.io/)
