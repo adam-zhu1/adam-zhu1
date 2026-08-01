@@ -1,8 +1,6 @@
-<div align="center">
+# Adam Zhu
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/adam-zhu1/adam-zhu1/output/contribution-graph-dark.svg" />
-  <img alt="Adam Zhu — Statistics and Machine Learning at Carnegie Mellon — contribution graph" src="https://raw.githubusercontent.com/adam-zhu1/adam-zhu1/output/contribution-graph-light.svg" />
-</picture>
+Statistics and Machine Learning at Carnegie Mellon University.
 
-</div>
+> [!NOTE]
+> Find me at [adam-zhu1.github.io](https://adam-zhu1.github.io), on [LinkedIn](https://www.linkedin.com/in/adam-zhu-cmu/), or at [adamzhu@andrew.cmu.edu](mailto:adamzhu@andrew.cmu.edu).
