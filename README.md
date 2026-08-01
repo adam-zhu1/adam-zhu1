@@ -1,5 +1,5 @@
 ### Hi, I'm Adam
 
-Statistics and Machine Learning at CMU. The pinned projects below are the best place to start.
+Most of my commits right now are Swift: [TrueLine](https://github.com/adam-zhu1/trueline), an iOS bowling ball tracker, is heading for the App Store.
 
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=adam-zhu1&layout=compact&hide_border=true)
+The research code you won't find here (NIST bot detection, CSAFE camera forensics) lives in internal repos.
