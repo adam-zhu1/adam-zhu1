@@ -41,10 +41,13 @@ THEMES = {
 
 MONTHS = ["Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sep", "Oct", "Nov", "Dec"]
 
+NAME = "Adam Zhu"
+SUBTITLE = "Statistics & Machine Learning @ Carnegie Mellon"
+
 CELL = 11
 PITCH = 14
 LEFT = 34
-TOP = 46
+TOP = 108
 STAGGER_MS = 35
 
 
@@ -65,17 +68,21 @@ def render(cal: dict, theme_name: str) -> str:
     weeks = cal["weeks"]
     width = LEFT + len(weeks) * PITCH + 10
     height = TOP + 7 * PITCH + 30
+    accent = theme["cells"][3]
 
     parts = [
         f'<svg xmlns="http://www.w3.org/2000/svg" width="{width}" height="{height}" '
         f'viewBox="0 0 {width} {height}" font-family="-apple-system, \'Segoe UI\', Helvetica, Arial, sans-serif">',
         "<style>"
         ".w{animation:sweep .5s ease-out backwards}"
-        "@keyframes sweep{from{opacity:0;transform:translateX(-8px)}to{opacity:1;transform:none}}"
+        "@keyframes sweep{from{opacity:0}to{opacity:1}}"
         "@media (prefers-reduced-motion: reduce){.w{animation:none}}"
         "</style>",
-        f'<text x="{LEFT}" y="18" font-size="13" font-weight="600" fill="{theme["title"]}">'
-        f'{cal["totalContributions"]:,} contributions in the last year</text>',
+        f'<text class="w" x="{LEFT}" y="40" font-size="30" font-weight="700" fill="{theme["title"]}">{NAME}</text>',
+        f'<text class="w" style="animation-delay:150ms" x="{LEFT}" y="64" font-size="14" '
+        f'fill="{accent}">{SUBTITLE.replace("&", "&amp;")}</text>',
+        f'<text class="w" style="animation-delay:300ms" x="{width - 10}" y="40" font-size="12" '
+        f'text-anchor="end" fill="{theme["text"]}">{cal["totalContributions"]:,} contributions in the last year</text>',
     ]
 
     for label, row in (("Mon", 1), ("Wed", 3), ("Fri", 5)):
